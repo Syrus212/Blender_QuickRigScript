@@ -105,7 +105,7 @@ def create_armature():
                     parent_name = pot_parent
 
             if not(parent_name):
-                n = 5
+                n = 10
                 parent_name = "Body"
 
                 while n > 1:
